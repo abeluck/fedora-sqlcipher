@@ -5,7 +5,7 @@
 
 %define rpmver 2.2.1
 
-Summary: SQLite extension that provides transparent 256-bit AES encryption of database files
+Summary: AES encryption for SQLite databases
 Name: sqlcipher
 Version: %{rpmver}
 Release: 1%{?dist}
