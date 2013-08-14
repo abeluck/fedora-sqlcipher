@@ -138,7 +138,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-, root, root)
-%doc README
+%doc README LICENSE
 %{_bindir}/sqlcipher
 %{_libdir}/*.so.*
 %{_mandir}/man?/*
